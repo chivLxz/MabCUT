@@ -1,6 +1,6 @@
 # Multi-attention bidirectional contrastive learning method for unpaired image-to-image translation (MabCUT)
 
-![framework](../mgs/framework.png)
+![framework](../imgs/framework.png)
 
 
 
