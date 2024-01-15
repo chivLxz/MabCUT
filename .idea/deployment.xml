@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="3080-293" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="3080-123">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dclgan" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="3080-293">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dclgan" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="3080-416">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dclgan" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="3090-030">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dclgansource" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
