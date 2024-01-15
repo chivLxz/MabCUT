@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4414f651-6250-449b-8c14-e14df1d1e358" name="3080-416">
+        <fileTransfer rootFolder="/root/autodl-tmp" accessType="SFTP" host="region-42.seetacloud.com" port="44464" sshConfigId="aca1f759-b711-4a5a-80b8-9129700aca35" sshConfig="root@region-42.seetacloud.com:44464 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1e7ae311-cc1c-421b-a843-f6e53d3d12a6" name="3080-123">
+        <fileTransfer rootFolder="/root/autodl-tmp" accessType="SFTP" host="region-41.seetacloud.com" port="36462" sshConfigId="63b3667f-3c33-4ee6-99e4-cc57a6007073" sshConfig="root@region-41.seetacloud.com:36462 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="44f1e75e-afdb-4d1b-9cb7-00c4d0a633c6" name="3090-030">
+        <fileTransfer rootFolder="/root/autodl-tmp" accessType="SFTP" host="region-45.autodl.pro" port="36686" sshConfigId="0225f0ac-48f1-4d13-a3f4-788511ab49d2" sshConfig="root@region-45.autodl.pro:36686 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="ytf-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bfe5c254-927b-4b35-a32d-83b2bc83cd4c" name="3080-293">
+        <fileTransfer rootFolder="/root/autodl-tmp" accessType="SFTP" host="region-41.seetacloud.com" port="54934" sshConfigId="1a2c0cfc-d297-4f73-9ac9-f9d642e81a14" sshConfig="root@region-41.seetacloud.com:54934 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

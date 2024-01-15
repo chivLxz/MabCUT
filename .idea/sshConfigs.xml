@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="region-42.seetacloud.com" id="aca1f759-b711-4a5a-80b8-9129700aca35" port="44464" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="region-41.seetacloud.com" id="63b3667f-3c33-4ee6-99e4-cc57a6007073" port="36462" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="region-45.autodl.pro" id="0225f0ac-48f1-4d13-a3f4-788511ab49d2" port="36686" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="region-41.seetacloud.com" id="1a2c0cfc-d297-4f73-9ac9-f9d642e81a14" port="54934" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
