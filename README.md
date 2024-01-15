@@ -1,11 +1,12 @@
 # Multi-attention bidirectional contrastive learning method for unpaired image-to-image translation (MabCUT)
 
-![framework](../imgs/framework.png)
+![framework](imgs/framework.png)
 
 
 
 
-## ![result](../imgs/result.png)rerequisites
+![result](imgs/result.png)
+## rerequisites
 
 Python 3.6 or above.
 
