@@ -6,7 +6,7 @@
 
 
 ![result](imgs/result.png)
-## rerequisites
+## Rerequisites
 
 Python 3.6 or above.
 
